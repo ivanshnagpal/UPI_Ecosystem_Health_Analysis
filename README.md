@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project examining the health of India's UPI payment ecosystem across 57 banks from January 2024 to February 2026, using data published by NPCI.
 
-**Author:** Mrunal Shekade - [GitHub](https://github.com/MrunalShekade)
+**Author:** Vansh Nagpal - [LinkedIn](https://www.linkedin.com/in/vansh-nagpal-vn011) • [GitHub](https://github.com/ivanshnagpal)
 
 ---
 
