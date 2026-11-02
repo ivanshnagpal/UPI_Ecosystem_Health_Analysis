@@ -2,7 +2,6 @@
 
 An end-to-end data analysis project examining the health of India's UPI payment ecosystem across 57 banks from January 2024 to February 2026, using data published by NPCI.
 
-**Author:** Vansh Nagpal - [LinkedIn](https://www.linkedin.com/in/vansh-nagpal-vn011) • [GitHub](https://github.com/ivanshnagpal)
 
 ---
 
@@ -210,3 +209,7 @@ pytest tests/
 ## Data Source
 
 All data sourced from NPCI (National Payments Corporation of India) monthly UPI performance reports, publicly available at [npci.org.in](https://www.npci.org.in).
+
+---
+
+**Connect:** Vansh Nagpal - [LinkedIn](https://www.linkedin.com/in/vansh-nagpal-vn011) • [GitHub](https://github.com/ivanshnagpal)
